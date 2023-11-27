@@ -3,7 +3,7 @@
 
 ### Intro 👋
 - Started in C, now working in PHP, React and SQL
-- CS50 Alumni, current iO Academy Student 
+- CS50 Alumni, current studying at iO Academy in Bath.
 - Kata Enjoyer
 
   ![codewars stats](https://www.codewars.com/users/shellycs50/badges/large)
