@@ -2,7 +2,7 @@
 
 
 ### Intro 👋
-- A C developer at heart, currently working in PHP, React and SQL
+- Started in C, now working in PHP, React and SQL
 - CS50 Alumni, current iO Academy Student 
 - Kata Enjoyer
 
