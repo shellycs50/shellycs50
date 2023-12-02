@@ -2,7 +2,7 @@
 
 
 ### Intro 👋
-- Started in C and Python, now working in PHP, React.js and SQL
+- Started in C and Python. Now learning PHP, Laravel and React.js 
 - CS50 Alumni, current studying at iO Academy in Bath.
 - Kata Enjoyer
 
