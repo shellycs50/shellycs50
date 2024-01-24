@@ -3,7 +3,7 @@
 
 ### Intro 👋
 - Started in C and Python. Now learning PHP, Laravel, Javascript, React and Node. 
-- CS50 Alumni and iO Academy (Bath) Alumni.
+- CS50 and iO Academy (Bath) Alumni.
 - Kata Enjoyer
 
   ![codewars stats](https://www.codewars.com/users/shellycs50/badges/large)
