@@ -2,8 +2,8 @@
 
 
 ### Intro 👋
-- Started in C and Python. Now learning PHP, Laravel and React.js 
-- CS50 Alumni, current studying at iO Academy in Bath.
+- Started in C and Python. Now learning PHP, Laravel, Javascript, React and Node. 
+- CS50 Alumni and iO Academy (Bath) Alumni.
 - Kata Enjoyer
 
   ![codewars stats](https://www.codewars.com/users/shellycs50/badges/large)
