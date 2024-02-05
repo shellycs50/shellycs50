@@ -2,7 +2,7 @@
 
 
 ### Intro 👋
-- Started in C and Python. Now learning PHP, Laravel, Javascript, React and Node. 
+- Started in C and Python. Now learning PHP, Laravel, Javascript, React and Go. 
 - CS50 and iO Academy (Bath) Alumni.
 - Kata Enjoyer
 
