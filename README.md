@@ -2,8 +2,8 @@
 
 
 ### Intro 👋
-- Started in C and Python. Now working with PHP, Laravel, Javascript, React and Go. 
+- Full Stack Developer (React/Typescript, Node.js, TailwindCSS)
 - CS50 and iO Academy (Bath) Alumni.
-- Kata Enjoyer
+- Codewars Top 8% Rank
 
   ![codewars stats](https://www.codewars.com/users/shellycs50/badges/large)
