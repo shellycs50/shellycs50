@@ -2,7 +2,7 @@
 
 
 ### Intro 👋
-- Full Stack Developer (React/Typescript, Node.js, TailwindCSS)
+- I'm a Full Stack Developer specialising in React, Typescript, Node.js and TailwindCSS. My other current interests include Redux and Jest.
 - CS50 and iO Academy (Bath) Alumni.
 - Codewars Top 8% Rank
 
